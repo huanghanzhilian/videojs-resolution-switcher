@@ -48,5 +48,7 @@
   },
   "peerDependencies": {
     "video.js": "^5.8"
-  }
+  },
+  "_from": "videojs-resolution-switcher@0.4.2",
+  "_resolved": "http://registry.npm.taobao.org/videojs-resolution-switcher/download/videojs-resolution-switcher-0.4.2.tgz"
 }
